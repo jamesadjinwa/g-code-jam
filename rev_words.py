@@ -1,4 +1,4 @@
-#code Qualification round Jam Africa 2010
+# Code Qualification round Jam Africa 2010
 
 j = 0
 newwords = list()
